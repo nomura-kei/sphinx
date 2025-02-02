@@ -4080,7 +4080,7 @@ msgstr "オブジェクト %s に属性 %s がありません"
 #: ext/autodoc/__init__.py:1970
 #, python-format
 msgid "alias of %s"
-msgstr "%sの別名です。"
+msgstr "%s の別名です。"
 
 #: ext/autodoc/__init__.py:1858
 #, python-format
